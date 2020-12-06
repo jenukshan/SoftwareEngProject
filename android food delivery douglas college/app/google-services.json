@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66795936525",
+    "firebase_url": "https://douglascollege-77495.firebaseio.com",
+    "project_id": "douglascollege-77495",
+    "storage_bucket": "douglascollege-77495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66795936525:android:c031de5b00bc075b5aae44",
+        "android_client_info": {
+          "package_name": "com.example.hp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66795936525-k327o2m3oe075uvcui1v9fvk7kn17c8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrF534M_cNzZGNff2siS56ViG5UE10LkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66795936525-k327o2m3oe075uvcui1v9fvk7kn17c8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

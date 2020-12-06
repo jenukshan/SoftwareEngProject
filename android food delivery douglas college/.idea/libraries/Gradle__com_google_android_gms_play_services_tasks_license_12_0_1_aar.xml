@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks-license:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/9dfe9bb78c00bc12a2b812c2f42fc471/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/9dfe9bb78c00bc12a2b812c2f42fc471/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/9dfe9bb78c00bc12a2b812c2f42fc471/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

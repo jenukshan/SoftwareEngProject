@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\V1\FoodDel\app\src\main\assets"><file name="databases/Tomato.db" path="D:\V1\FoodDel\app\src\main\assets\databases\Tomato.db"/><file name="Fonts/NABILA.TTF" path="D:\V1\FoodDel\app\src\main\assets\Fonts\NABILA.TTF"/></source><source path="D:\V1\FoodDel\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\V1\FoodDel\app\src\debug\assets"/></dataSet></merger>

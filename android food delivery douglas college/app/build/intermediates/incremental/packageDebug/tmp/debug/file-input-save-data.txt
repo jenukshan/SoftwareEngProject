@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Nov 07 04:22:31 PST 2020
+1.base=D\:\\V1\\FoodDel\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=databases/Tomato.db
+0.baseType=DIRECTORY
+2.base=D\:\\V1\\FoodDel\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=Fonts/NABILA.TTF
+0.set=ASSET
+0.base=D\:\\V1\\FoodDel\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=classes.dex

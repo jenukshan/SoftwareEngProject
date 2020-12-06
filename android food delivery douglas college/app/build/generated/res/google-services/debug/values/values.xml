@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">66795936525-k327o2m3oe075uvcui1v9fvk7kn17c8j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://douglascollege-77495.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">66795936525</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrF534M_cNzZGNff2siS56ViG5UE10LkQ</string>
+    <string name="google_app_id" translatable="false">1:66795936525:android:c031de5b00bc075b5aae44</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrF534M_cNzZGNff2siS56ViG5UE10LkQ</string>
+    <string name="google_storage_bucket" translatable="false">douglascollege-77495.appspot.com</string>
+    <string name="project_id" translatable="false">douglascollege-77495</string>
+</resources>
